@@ -1,23 +1,32 @@
-# edevrob/flarum-lang-latvian (Archive)
+# flarum-lang-latvian (Archive)
 
-> **Read-only archive of released versions of edevrob/flarum-lang-latvian.** Not for installation: use [Packagist](https://packagist.org/packages/edevrob/flarum-lang-latvian) or the [upstream repository](https://github.com/flarum-lang/latvian).
+> **Read-only archive of released versions for edevrob/flarum-lang-latvian, flarum-lang/latvian.** Not for installation: use Packagist or the [upstream repository](https://github.com/flarum-lang/latvian).
 
-**8** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
+**8** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.3`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`edevrob/flarum-lang-latvian`](https://packagist.org/packages/edevrob/flarum-lang-latvian)
+- [`flarum-lang/latvian`](https://packagist.org/packages/flarum-lang/latvian)
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| `1.0.0` | 2026-09-30 | `^1.3` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v1.0.0) |
-| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v2.0.0) |
-| `v0.1.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v0.1.0) |
-| `v0.1.1` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v0.1.1) |
-| `v0.1.2` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v0.1.2) |
-| `v0.2.0` | 2022-08-30 | `^1.0` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v0.2.0) |
-| `v0.2.1` | 2024-01-16 | `^1.3` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v0.2.1) |
-| `v0.2.2` | 2024-01-16 | `^1.3` | [Browse](https://github.com/flarchive/edevrob-flarum-lang-latvian/tree/archive/v0.2.2) |
+| `1.0.0` | 2026-09-30 | `^1.3` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v1.0.0) |
+| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v2.0.0) |
+| `v0.1.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v0.1.0) |
+| `v0.1.1` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v0.1.1) |
+| `v0.1.2` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v0.1.2) |
+| `v0.2.0` | 2022-08-30 | `^1.0` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v0.2.0) |
+| `v0.2.1` | 2024-01-16 | `^1.3` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v0.2.1) |
+| `v0.2.2` | 2024-01-16 | `^1.3` | [Browse](https://github.com/flarchive/flarum-lang-latvian/tree/archive/v0.2.2) |
 
-Catalog entry: [packages/edevrob-flarum-lang-latvian.json](https://github.com/flarchive/archive-index/blob/main/packages/edevrob-flarum-lang-latvian.json)
+## Catalog entries
+
+- [`edevrob/flarum-lang-latvian`](https://github.com/flarchive/archive-index/blob/main/packages/edevrob-flarum-lang-latvian.json)
+- [`flarum-lang/latvian`](https://github.com/flarchive/archive-index/blob/main/packages/flarum-lang-latvian.json)
 
 ## About this archive
 
